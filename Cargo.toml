@@ -3,6 +3,9 @@ name = "wasm-test-2"
 version = "0.1.0"
 authors = ["nezha <nezhayoung@outlook.com>"]
 edition = "2021"
+description = "Simple CosmWasm contract for an escrow with arbiter and timeout"
+repository = "https://github.com/nezha90/wams-test-2"
+license-file = "LICENSE"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
